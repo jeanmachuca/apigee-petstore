@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies/>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:b830e0dcfa2fd8d806c1d6422ede1ed9e0c55c3f262b6f85902435ccd4740811e8a86b04a96e254d7da8b7f342deb21e24cb394f3f59d47dca6a0e8332c8fb3d"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="openapi://association.json" version="SHA-512:be3929bb55d569f8e149475dbca55201e563ac9f09b058b27fb9483678c3d2dd93fa29be02a4fb5353b4d51992d70d3150a318f158142a4271d29b16a7a1d052"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>
